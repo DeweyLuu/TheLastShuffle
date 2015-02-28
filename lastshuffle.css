@@ -1,0 +1,40 @@
+body {
+	background-image: url(jordanbackground3.jpg);
+	background-size: cover;
+}
+h1 {
+	text-align: center;
+	font-size: 4em;
+}
+h3 {
+	text-align: center;
+	font-size: 2em;
+}
+img {
+	width: 8.5em;
+}
+.nameIt {
+	display: none;
+	font-size: 1.5em;
+}
+.shoes {
+	padding: 1em;
+	text-align: center;
+}
+#begin {
+	text-align: center;
+}
+ul {
+	list-style: none;
+}
+#shuffle {
+	text-align: center;
+}
+li {
+	display: inline-block;
+	width: 8.5em;
+	padding: 0;
+}
+#showTime {
+	display: none;
+}
